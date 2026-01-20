@@ -1,6 +1,3 @@
-## Hi there 👋
-
-[<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hans-hc&theme=radical)
+## Hello, I'm Hansen!
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hansencheng859@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hansencheng-hc/)
