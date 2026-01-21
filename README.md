@@ -6,7 +6,5 @@ I'm currently studying Computer Science at McMaster University.
 
 Here are a few languages, frameworks, and design tools I've worked!
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,ts,js,cs,c,html,css,react,flask,nodejs,latex&theme=dark&perline=12" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,idea,visualstudio,unity,blender,ps,lightroom,davinci&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,py,ts,js,cs,c,html,css,react,nodejs,flask,latex,git,github,mysql,vscode,idea,visualstudio,unity,blender,ps,lightroom,davinci&theme=dark&perline=12" />
 </p>
