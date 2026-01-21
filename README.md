@@ -4,6 +4,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,py,ts,js,cs,c,sql,html,css,react,flask,quarkus&theme=dark&perline=12" />
-  <br/>
+  <br />
   <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,idea,visualstudio,unity,blender,ps,lightroom,davinci&theme=dark&perline=12" />
 </p>
